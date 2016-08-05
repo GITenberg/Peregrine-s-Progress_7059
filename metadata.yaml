@@ -1,0 +1,32 @@
+_repo: Peregrine-s-Progress_7059
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Farnol, Jeffery
+    aliases:
+    - Farnol, John Jeffery
+    - Farnol, Jack
+    - Farnol, Jeffrey
+    birthdate: 1878
+    deathdate: 1952
+    gutenberg_agent_id: '789'
+    url: http://www.gutenberg.org/2009/agents/789
+    wikipedia: http://en.wikipedia.org/wiki/Jeffery_Farnol
+description: ''
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7059'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young men -- Fiction'
+- !lcsh 'England -- Social life and customs -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Adventure stories'
+- !lcc 'PR'
+- GITenberg
+title: Peregrine's Progress
+url: http://www.gutenberg.org/ebooks/7059
